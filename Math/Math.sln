@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{A5C22CC0-9F74-4AA6-AE61-0DFC1D6EF9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C22CC0-9F74-4AA6-AE61-0DFC1D6EF9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C22CC0-9F74-4AA6-AE61-0DFC1D6EF9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C22CC0-9F74-4AA6-AE61-0DFC1D6EF9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C22CC0-9F74-4AA6-AE61-0DFC1D6EF9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16F172F-C823-451E-AC11-FC59D5275C12}
+	EndGlobalSection
+EndGlobal

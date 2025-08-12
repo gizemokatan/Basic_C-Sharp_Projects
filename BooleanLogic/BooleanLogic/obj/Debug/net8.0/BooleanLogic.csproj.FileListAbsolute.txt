@@ -1,0 +1,14 @@
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.exe
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.deps.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.runtimeconfig.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfo.cs
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\refint\BooleanLogic.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.genruntimeconfig.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\net8.0\ref\BooleanLogic.dll

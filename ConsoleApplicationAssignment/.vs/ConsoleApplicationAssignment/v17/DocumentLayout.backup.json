@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem Okatan\\Desktop\\Basic_C#_Programs\\ConsoleApplicationAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C59C19-1203-4B49-95E3-64432422EE9C}|ConsoleApplicationAssignment\\ConsoleApplicationAssignment.csproj|c:\\users\\gizem okatan\\desktop\\basic_c#_programs\\consoleapplicationassignment\\consoleapplicationassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C59C19-1203-4B49-95E3-64432422EE9C}|ConsoleApplicationAssignment\\ConsoleApplicationAssignment.csproj|solutionrelative:consoleapplicationassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem Okatan\\Desktop\\Basic_C#_Programs\\ConsoleApplicationAssignment\\ConsoleApplicationAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplicationAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Gizem Okatan\\Desktop\\Basic_C#_Programs\\ConsoleApplicationAssignment\\ConsoleApplicationAssignment\\Program.cs",
+              "RelativeToolTip": "ConsoleApplicationAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:26:18.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

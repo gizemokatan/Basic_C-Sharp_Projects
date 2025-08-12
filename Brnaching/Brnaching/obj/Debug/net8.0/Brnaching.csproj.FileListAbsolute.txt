@@ -1,0 +1,14 @@
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.AssemblyInfoInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.AssemblyInfo.cs
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.csproj.CoreCompileInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\bin\Debug\net8.0\Brnaching.exe
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\bin\Debug\net8.0\Brnaching.deps.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\bin\Debug\net8.0\Brnaching.runtimeconfig.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\bin\Debug\net8.0\Brnaching.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\bin\Debug\net8.0\Brnaching.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\refint\Brnaching.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\Brnaching.genruntimeconfig.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\Brnaching\Brnaching\obj\Debug\net8.0\ref\Brnaching.dll

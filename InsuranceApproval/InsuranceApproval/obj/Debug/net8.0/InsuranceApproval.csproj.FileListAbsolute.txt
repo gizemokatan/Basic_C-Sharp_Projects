@@ -1,0 +1,14 @@
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\net8.0\InsuranceApproval.exe
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\net8.0\InsuranceApproval.deps.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\net8.0\InsuranceApproval.runtimeconfig.json
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\net8.0\InsuranceApproval.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\net8.0\InsuranceApproval.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.AssemblyInfo.cs
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\refint\InsuranceApproval.dll
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.pdb
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\InsuranceApproval.genruntimeconfig.cache
+C:\Users\Gizem Okatan\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\net8.0\ref\InsuranceApproval.dll
